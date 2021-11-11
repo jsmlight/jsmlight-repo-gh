@@ -1,2 +1,2 @@
 # jsmlight-repo-gh
-jsmlight의 개인 공간
+jsmlight의 repository
